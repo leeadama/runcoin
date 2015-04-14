@@ -1,7 +1,7 @@
 runcoin (RUN)
-===========
+==========
 
-[![Build Status](https://travis-ci.org/RazorLove/runcoin.png?branch=master)](https://travis-ci.org/RazorLove/runcoin)
+A sample coin that I made learning how the process works.
 
+Lee
 
-Scrypt Hashcash PoW Template
